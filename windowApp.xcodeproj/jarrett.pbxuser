@@ -1,0 +1,191 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* windowAppAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1381, 666}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 483}";
+			sepNavWindowFrame = "{{0, 53}, {1440, 817}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* windowAppAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1080}}";
+			sepNavSelRange = "{540, 6}";
+			sepNavVisRange = "{0, 1425}";
+			sepNavWindowFrame = "{{0, 56}, {1440, 817}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* windowApp */ = {
+		activeExec = 0;
+		executables = (
+			67ED879612EA60C4008D7AC2 /* windowApp */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* windowAppViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1381, 666}}";
+			sepNavSelRange = "{546, 0}";
+			sepNavVisRange = "{0, 591}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* windowAppViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1381, 1680}}";
+			sepNavSelRange = "{1547, 0}";
+			sepNavVisRange = "{996, 1331}";
+			sepNavWindowFrame = "{{0, 49}, {1440, 817}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 67ED879612EA60C4008D7AC2 /* windowApp */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* windowApp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* windowApp */,
+		);
+		breakpoints = (
+			67535ACB12EB41A9001EF3E2 /* windowAppViewController.m:89 */,
+		);
+		codeSenseManager = 67ED87A212EA60D1008D7AC2 /* Code sense */;
+		executables = (
+			67ED879612EA60C4008D7AC2 /* windowApp */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 317406060;
+			PBXWorkspaceStateSaveDate = 317406060;
+		};
+		perUserProjectItems = {
+			67535B6612EB5AA8001EF3E2 /* XCBuildMessageTextBookmark */ = 67535B6612EB5AA8001EF3E2 /* XCBuildMessageTextBookmark */;
+			67535B8A12EB613A001EF3E2 /* PBXTextBookmark */ = 67535B8A12EB613A001EF3E2 /* PBXTextBookmark */;
+			67535BBB12EB67B9001EF3E2 /* PBXTextBookmark */ = 67535BBB12EB67B9001EF3E2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 67ED87A112EA60D1008D7AC2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	674D632212EA6D8E00C064D3 /* StoryView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1381, 666}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 204}";
+		};
+	};
+	674D632312EA6D8E00C064D3 /* StoryView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 1125}}";
+			sepNavSelRange = "{188, 0}";
+			sepNavVisRange = "{1942, 201}";
+			sepNavWindowFrame = "{{12, -9}, {1440, 817}}";
+		};
+	};
+	67535A8012EB3C1F001EF3E2 /* LYScrollView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1381, 689}}";
+			sepNavSelRange = "{234, 0}";
+			sepNavVisRange = "{0, 245}";
+		};
+	};
+	67535A8112EB3C1F001EF3E2 /* LYScrollView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1381, 1680}}";
+			sepNavSelRange = "{3386, 0}";
+			sepNavVisRange = "{1920, 1556}";
+			sepNavWindowFrame = "{{0, 56}, {1440, 817}}";
+		};
+	};
+	67535ACB12EB41A9001EF3E2 /* windowAppViewController.m:89 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* windowAppViewController.m */;
+		functionName = "-viewForZoomingInScrollView:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 89;
+		location = windowApp;
+		modificationTime = 317407668.632736;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	67535B6612EB5AA8001EF3E2 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'LYScrollView' may not respond to '-adjustAnchorPointForGestureRecognizer:'";
+		fRef = 67535A8112EB3C1F001EF3E2 /* LYScrollView.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 51;
+		rType = 1;
+	};
+	67535B8A12EB613A001EF3E2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 67535A8012EB3C1F001EF3E2 /* LYScrollView.h */;
+		name = "LYScrollView.h: 12";
+		rLen = 0;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 245;
+		vrLoc = 0;
+	};
+	67535BBB12EB67B9001EF3E2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 67535A8112EB3C1F001EF3E2 /* LYScrollView.m */;
+		name = "LYScrollView.m: 85";
+		rLen = 0;
+		rLoc = 3386;
+		rType = 0;
+		vrLen = 1556;
+		vrLoc = 1920;
+	};
+	67ED879612EA60C4008D7AC2 /* windowApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = windowApp;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	67ED87A112EA60D1008D7AC2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	67ED87A212EA60D1008D7AC2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
